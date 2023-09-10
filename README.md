@@ -18,10 +18,10 @@ The dataset is about 15 GB. You can download it here:
 
 ### Cite paper:
 
-@article{zhang2022single,
-  title={Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance},
-  author={Zhang, Qi and Chan, Antoni B},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2022},
-  publisher={IEEE}
-}
+   @article{zhang2022single,
+     title={Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance},
+     author={Zhang, Qi and Chan, Antoni B},
+     journal={IEEE Transactions on Neural Networks and Learning Systems},
+     year={2022},
+     publisher={IEEE}
+   }
