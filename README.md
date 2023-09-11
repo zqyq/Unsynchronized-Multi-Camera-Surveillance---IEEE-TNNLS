@@ -8,7 +8,7 @@ In this paper, we consider the regime of low-fps multiview camera systems – we
 
 ### Code implementation:
 
-The implementation is based on Keras 2.2.4 and Tensorflow 1.11.0.
+The implementation is based on Keras 2.2.4 and Tensorflow 1.11.0. No commercial use is allowed.
 
 ### Dataset Download:
 The dataset is about 15 GB. You can download it here:
@@ -17,7 +17,7 @@ The dataset is about 15 GB. You can download it here:
    
 
 ### Cite paper:
-If you use the code or the dataset, please cite our paper:
+If you use the code or the dataset, or think the paper is useful, please cite our paper:
 
     @article{zhang2022single,
       title={Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance},
