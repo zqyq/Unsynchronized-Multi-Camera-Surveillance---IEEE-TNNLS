@@ -8,7 +8,7 @@ In this paper, we consider the regime of low-fps multiview camera systems – we
 
 ### Code implementation:
 
-The implementation is based on Keras and Tensorflow.
+The implementation is based on Keras 2.2.4 and Tensorflow 1.11.0.
 
 ### Dataset Download:
 The dataset is about 15 GB. You can download it here:
