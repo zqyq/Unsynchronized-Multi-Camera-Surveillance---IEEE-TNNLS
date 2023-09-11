@@ -1,6 +1,6 @@
 ## [Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance, IEEE TNNLS 2022](https://ieeexplore.ieee.org/document/9775149)
 
-![alt text](http://visal.cs.cityu.edu.hk/wp/wp-content/uploads/umvcc.png)
+![alt text](Street/umvcc.png)
 
 Compared to single cameras, multi-camera networks allow better understanding and modeling of the 3D world through more densely sampling of information in a 3D scene. Multi-camera based vision tasks have been a popular research field, especially deep learning related tasks, such as 3D pose estimation from multiple 2D observations, 3D reconstruction, multi-view tracking, and multi-view crowd counting. For these multi-view tasks, it is usually assumed that the multi-cameras are temporally synchronized when designing DNNs models, i.e., all cameras capture images at the same time point. However, the synchronization assumption for multi-camera systems may not always be valid in practical applications due to a variety of reasons, such as dropped camera frames due to limited network bandwidth or system resources, network transmission delays, etc.  Thus, handling unsynchronized multi-cameras is an important issue in the adoption and practical usage of multiview computer vision.
 
