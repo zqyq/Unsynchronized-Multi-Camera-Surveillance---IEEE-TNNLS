@@ -1,4 +1,4 @@
-## [Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance, IEEE TNNLS 2022](https://ieeexplore.ieee.org/document/9775149)
+## [Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance, IEEE TNNLS 2023](https://ieeexplore.ieee.org/document/9775149)
 
 ![alt text](Street/umvcc.png)
 
@@ -20,9 +20,12 @@ The dataset is about 15 GB. You can download it here:
 If you use the code or the dataset, or think the paper is useful, please cite our paper:
 
     @article{zhang2022single,
-      title={Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance},
-      author={Zhang, Qi and Chan, Antoni B},
-      journal={IEEE Transactions on Neural Networks and Learning Systems},
-      year={2022},
-      publisher={IEEE}
-    }
+      author={Zhang, Qi and Chan, Antoni B.},
+      journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+      title={Single-Frame-Based Deep View Synchronization for Unsynchronized Multicamera Surveillance}, 
+      year={2023},
+      volume={34},
+      number={12},
+      pages={10653-10667},
+      doi={10.1109/TNNLS.2022.3170642}
+   }
